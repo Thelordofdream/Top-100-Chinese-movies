@@ -14,8 +14,8 @@ def store_set(input_set, file_name):
 
 j = 0
 list = []
-type = "喜剧"
-zone = "日本"
+type = "武侠"
+zone = "中国"
 grade = 7.5
 for i in range(0, 2000, 20):
     # url = 'http://movie.douban.com/tag/%E5%8A%A8%E4%BD%9C?'
