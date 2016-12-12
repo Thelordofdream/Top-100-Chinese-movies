@@ -1,101 +1,131 @@
-李小龙：勇士的旅程   9.0
-功夫传奇   8.9
-Thunderbolt Fantasy 东离剑游纪   8.9
-无间道(正序版)   8.7
-死亡的游戏   8.4
-功夫少林   8.4
-宗师之路   8.4
-精武门   8.3
-圣石传说   8.3
-喋血双雄   8.3
-成龙的特技   8.3
-猛龙过江   8.2
-龙争虎斗   8.1
-英雄本色2   8.1
-银翼杀手   8.1
-成龙历险记 第四季   8.1
-武之梦   8.0
-成龙历险记 第三季   8.0
-双旗镇刀客   8.0
-上海蝙蝠侠   8.0
-新独臂刀   8.0
-侠僧探案传奇之大夜叉   8.0
-大海盗   7.9
-成龙历险记 第五季   8.0
-报仇   7.9
-太极宗师   7.9
-刀   7.9
-画江湖之灵主   7.9
-英雄广东十虎   8.6
-达摩祖师   7.9
-武馆   7.9
-辣手神探   7.9
-杨门女将之战地情缘   7.8
-保镖   7.9
-绝地苍狼   7.8
-黄飞鸿   7.8
-机动部队   7.8
-猫头鹰   7.8
-成龙历险记 第二季   7.8
-大决斗   7.8
-杨门女将之情定穆柯寨   7.7
-目无王法   7.7
-好小子2：大战巨无霸   7.7
-黄飞鸿之二：男儿当自强   7.7
-五毒   7.7
-龙爷虎孙   7.7
-英雄本色   7.7
-艋舺   7.7
-省港旗兵   7.7
-英雄   7.7
-火线追凶之狂魔再现   7.7
-刺马   7.7
-杨门女将之辕门斩子   7.7
-儿女英雄传   7.7
-唐山大兄   7.6
-和平饭店   7.6
-天下无贼   7.6
-保镖之天之娇女   7.6
-方世玉   7.6
-中华丈夫   7.6
-楚留香   7.6
-奇迹   7.6
-刀马旦   7.6
-一刀倾城   7.6
-疯猴   7.6
-火线追凶之突然死亡   7.6
-陆小凤传奇之铁鞋传奇   7.6
-嘎达梅林   7.6
-流星蝴蝶剑   7.6
-好小子3：苦儿流浪记   7.6
-杨门女将之女儿当自强   7.5
-豪侠   7.6
-名剑   7.6
-中华大丈夫   7.5
-古惑仔3之只手遮天   7.5
-野兽刑警   7.5
-顺流逆流   7.5
-杨门女将之穆桂英挂帅   7.5
-省港旗兵2：兵分两路   7.5
-奇门遁甲   7.5
-杨门女将之白马贺寿   7.5
-地狱无门   7.5
-险角   7.5
-给爸爸的信   7.5
-游侠儿   7.5
-七小福   7.5
-白玉老虎   7.5
-杨门女将之巧夺凤发   7.5
-奇谋妙计五福星   7.5
-杨门女将之大破天门阵   7.5
-龙虎风云   7.5
-杨门女将之再战金沙滩   7.5
-再向虎山行   7.5
-监狱风云2：逃犯   7.5
-火并   7.5
-三闯少林   7.5
-侠僧探案传奇之催命符   7.5
-最佳拍档   7.5
-生死决   7.5
-五虎将   7.5
-天朝国库之谜   7.6
+失控·幽灵飞车   9.2   https://movie.douban.com/subject/26378810/
+追捕   8.9   https://movie.douban.com/subject/26348414/
+勇者大冒险  第二季   8.7   https://movie.douban.com/subject/26757997/
+纵横四海   8.6   https://movie.douban.com/subject/1295409/
+让子弹飞   8.6   https://movie.douban.com/subject/3742360/
+岁城璃心   8.5   https://movie.douban.com/subject/26298852/
+死亡的游戏   8.4   https://movie.douban.com/subject/5401681/
+功夫少林   8.4   https://movie.douban.com/subject/26794337/
+侠女   8.4   https://movie.douban.com/subject/1306490/
+中华小子   8.4   https://movie.douban.com/subject/2244765/
+暗战   8.4   https://movie.douban.com/subject/1298898/
+虹猫仗剑走天涯   8.4   https://movie.douban.com/subject/25980446/
+精武门   8.3   https://movie.douban.com/subject/1294991/
+喋血双雄   8.3   https://movie.douban.com/subject/1296519/
+心理罪   8.3   https://movie.douban.com/subject/26698000/
+圣石传说   8.2   https://movie.douban.com/subject/1301913/
+镇魂街 第一季   8.2   https://movie.douban.com/subject/26392671/
+猛龙过江   8.2   https://movie.douban.com/subject/1306870/
+笑傲江湖2：东方不败   8.2   https://movie.douban.com/subject/1294417/
+无间道2   8.2   https://movie.douban.com/subject/1307106/
+迎春阁之风波   8.2   https://movie.douban.com/subject/1307898/
+师父   8.1   https://movie.douban.com/subject/25919910/
+精武英雄   8.1   https://movie.douban.com/subject/1292895/
+坏未来   8.1   https://movie.douban.com/subject/20473389/
+怪侠一枝梅2   8.1   https://movie.douban.com/subject/26301745/
+龙争虎斗   8.1   https://movie.douban.com/subject/1293118/
+英雄本色2   8.1   https://movie.douban.com/subject/1297862/
+忠烈图   8.0   https://movie.douban.com/subject/1296161/
+双旗镇刀客   8.0   https://movie.douban.com/subject/1307812/
+侠僧探案传奇之大夜叉   8.0   https://movie.douban.com/subject/26304163/
+监狱风云   8.0   https://movie.douban.com/subject/1293422/
+武之梦   8.0   https://movie.douban.com/subject/25749918/
+龙门客栈   8.0   https://movie.douban.com/subject/1459054/
+绝地十日   8.0   https://movie.douban.com/subject/26700729/
+新独臂刀   7.9   https://movie.douban.com/subject/1302128/
+霍元甲   7.9   https://movie.douban.com/subject/2210246/
+微能力者   7.9   https://movie.douban.com/subject/26774711/
+少林寺   7.9   https://movie.douban.com/subject/1301198/
+太极宗师   7.9   https://movie.douban.com/subject/1960302/
+刀   7.9   https://movie.douban.com/subject/1401962/
+武馆   7.9   https://movie.douban.com/subject/1474702/
+狗咬狗   7.9   https://movie.douban.com/subject/1853160/
+国家宝藏之觐天宝匣   7.9   https://movie.douban.com/subject/3272903/
+多情刀客无情刀短刀行   7.9   https://movie.douban.com/subject/3637738/
+功夫兔系列1：少林兔与武当狗   7.9   https://movie.douban.com/subject/1922000/
+达摩祖师   7.9   https://movie.douban.com/subject/1295299/
+琥珀青龙   7.9   https://movie.douban.com/subject/2252727/
+天若有情   7.9   https://movie.douban.com/subject/1297710/
+卧虎藏龙   7.8   https://movie.douban.com/subject/1301168/
+风雪山神庙   7.8   https://movie.douban.com/subject/25959325/
+功夫   7.8   https://movie.douban.com/subject/1291543/
+关中刀客之肉瓤子   7.8   https://movie.douban.com/subject/1484671/
+大刺客   7.8   https://movie.douban.com/subject/1432347/
+黄飞鸿   7.8   https://movie.douban.com/subject/1298443/
+魁拔妖侠传   7.8   https://movie.douban.com/subject/25928032/
+火线追凶之无罪辩护   7.8   https://movie.douban.com/subject/3925121/
+笑傲江湖   7.8   https://movie.douban.com/subject/1297304/
+火线追凶之死亡地带   7.8   https://movie.douban.com/subject/3824703/
+插翅难逃   7.8   https://movie.douban.com/subject/3041548/
+古惑仔之人在江湖   7.8   https://movie.douban.com/subject/1433736/
+少林英雄   7.8   https://movie.douban.com/subject/3032531/
+僵尸先生   7.8   https://movie.douban.com/subject/1295933/
+猫头鹰   7.8   https://movie.douban.com/subject/1871997/
+骆驼客   7.7   https://movie.douban.com/subject/10562402/
+功夫熊猫3   7.7   https://movie.douban.com/subject/11589036/
+白发魔女传   7.7   https://movie.douban.com/subject/1293765/
+英雄   7.7   https://movie.douban.com/subject/3434538/
+黄飞鸿之三：狮王争霸   7.7   https://movie.douban.com/subject/1292704/
+死亡游戏   7.7   https://movie.douban.com/subject/1308456/
+黄飞鸿之二：男儿当自强   7.7   https://movie.douban.com/subject/1293475/
+刺客聂隐娘前传   7.7   https://movie.douban.com/subject/26595432/
+好小子2：大战巨无霸   7.7   https://movie.douban.com/subject/1896534/
+陆小凤传奇之陆小凤前传   7.7   https://movie.douban.com/subject/2136204/
+火线追凶之血色刀锋   7.7   https://movie.douban.com/subject/3836656/
+火线追凶之冲破黑幕   7.7   https://movie.douban.com/subject/3925122/
+儿女英雄传   7.7   https://movie.douban.com/subject/3098949/
+火线追凶之狂魔再现   7.7   https://movie.douban.com/subject/3862260/
+我的师父姜子牙   7.7   https://movie.douban.com/subject/25907124/
+火线追凶之掘墓人   7.7   https://movie.douban.com/subject/3890933/
+关西无极刀   7.7   https://movie.douban.com/subject/3418573/
+无间道3：终极无间   7.7   https://movie.douban.com/subject/1307694/
+天龙八部   7.7   https://movie.douban.com/subject/1718150/
+僵尸   7.7   https://movie.douban.com/subject/22715021/
+五毒   7.7   https://movie.douban.com/subject/1307605/
+七小福再出击   7.7   https://movie.douban.com/subject/3078875/
+功夫瑜伽   7.6   https://movie.douban.com/subject/26182910/
+寻龙诀   7.6   https://movie.douban.com/subject/3077412/
+警察故事   7.6   https://movie.douban.com/subject/1400868/
+和平饭店   7.6   https://movie.douban.com/subject/1293867/
+A计划   7.6   https://movie.douban.com/subject/1297909/
+大内密探零零发   7.6   https://movie.douban.com/subject/1329936/
+一刀倾城   7.6   https://movie.douban.com/subject/1299085/
+方世玉   7.6   https://movie.douban.com/subject/1297763/
+火线追凶之黑枪疑云   7.6   https://movie.douban.com/subject/3862259/
+陆小凤传奇之铁鞋传奇   7.6   https://movie.douban.com/subject/2136201/
+火线追凶之绝命狙击   7.6   https://movie.douban.com/subject/3838283/
+嘎达梅林   7.6   https://movie.douban.com/subject/1532596/
+唐山大兄   7.6   https://movie.douban.com/subject/1307577/
+火线追凶之突然死亡   7.6   https://movie.douban.com/subject/3862261/
+天下无贼   7.6   https://movie.douban.com/subject/1291550/
+刀马旦   7.6   https://movie.douban.com/subject/1298873/
+包强大战寿司人   7.6   https://movie.douban.com/subject/5364943/
+笑林小子2：新乌龙院   7.6   https://movie.douban.com/subject/1308927/
+楚留香   7.6   https://movie.douban.com/subject/1307115/
+流星蝴蝶剑   7.5   https://movie.douban.com/subject/1301180/
+侠僧探案传奇之催命符   7.5   https://movie.douban.com/subject/26304162/
+中华大丈夫   7.5   https://movie.douban.com/subject/3024053/
+给爸爸的信   7.5   https://movie.douban.com/subject/1299250/
+龙虎风云   7.5   https://movie.douban.com/subject/1299658/
+上海王   7.5   https://movie.douban.com/subject/4078592/
+赌神2   7.5   https://movie.douban.com/subject/1292506/
+玉蜻蜓   7.5   https://movie.douban.com/subject/2144384/
+唐人街探案   7.5   https://movie.douban.com/subject/26311973/
+大捕房   7.5   https://movie.douban.com/subject/5989848/
+功夫料理娘   7.5   https://movie.douban.com/subject/6527298/
+新少林五祖   7.5   https://movie.douban.com/subject/1296837/
+奇门遁甲   7.5   https://movie.douban.com/subject/1302654/
+少林三十六房   7.5   https://movie.douban.com/subject/1390006/
+监狱风云2：逃犯   7.5   https://movie.douban.com/subject/1294019/
+奇谋妙计五福星   7.5   https://movie.douban.com/subject/1293658/
+路客与刀客   7.5   https://movie.douban.com/subject/2245836/
+大醉侠   7.5   https://movie.douban.com/subject/1301946/
+戴手铐的旅客   7.5   https://movie.douban.com/subject/1422284/
+水浒传   7.5   https://movie.douban.com/subject/4718246/
+古惑仔3之只手遮天   7.5   https://movie.douban.com/subject/1301283/
+古惑仔2之猛龙过江   7.5   https://movie.douban.com/subject/1473074/
+地狱无门   7.5   https://movie.douban.com/subject/1296700/
+七小福   7.5   https://movie.douban.com/subject/1296044/
+最佳拍档   7.5   https://movie.douban.com/subject/1306011/
+新上海滩   7.5   https://movie.douban.com/subject/1293142/
+铁手无情   7.5   https://movie.douban.com/subject/1306265/

@@ -14,8 +14,8 @@ def store_set(input_set, file_name):
 
 j = 0
 list = []
-type = "爱情"
-zone = "中国"
+type = "喜剧"
+zone = "日本"
 grade = 7.5
 for i in range(0, 2000, 20):
     # url = 'http://movie.douban.com/tag/%E5%8A%A8%E4%BD%9C?'
@@ -56,6 +56,6 @@ for i in range(0, 2000, 20):
                         list.extend(movie + "   " + URL[i] + '\n')
     time.sleep(0.5)
 
-store_set(list, str(grade) + '以上的' + zone + type + '电影.txt')
+store_set(list, str(grade) + '分以上的' + zone + type + '电影.txt')
 print ('总共抓取电影数据' + str(j) + '条')
 print 'done'
